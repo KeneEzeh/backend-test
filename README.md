@@ -2,7 +2,7 @@
 
 ## This contains Three different challenges.
 
-### Challenges 1 and  3 will be executed using any Node.js package manager, preferably "npm" since that's what the app is biult with.
+### Challenges 1 and  3 will be executed using npm
 
 #### Steps
 
