@@ -1,4 +1,4 @@
-# LoudInsights Test  By Ezeanwe Kenechukwu
+# LoudInsights Backend Test
 
 ## This contains Three different challenges.
 
