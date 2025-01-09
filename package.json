@@ -1,4 +1,14 @@
 {
   "name": "LoudInsights",
-  "packageManager": "yarn@4.5.1"
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "taskTwo": "node challenge2"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.3"
+  }
 }
